@@ -1,0 +1,10 @@
+Package: LXdrugMR
+Type: Package
+Title: LXdrugMR
+Version: 0.10.2024
+Author: Dr.Lin
+Maintainer: Dr.Lin<gluck4668@sina.com>
+Description: LXdrugMR can be used for drug target MR analysis.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
